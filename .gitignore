@@ -1,0 +1,7 @@
+/bin
+*.class
+*.iml
+.idea
+.metadata
+.recommenders
+*.settings
